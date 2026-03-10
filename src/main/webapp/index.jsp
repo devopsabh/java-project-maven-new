@@ -24,7 +24,7 @@
             <li class="nav-items"><a href="#">You are doing good</a></li>
             <li class="nav-items"><a href="#">Go Go Go</a></li>
             <li class="nav-items"><a href="#">One More Attempt</a></li>
-            <li class="nav-items"><a href="#">Premium</a></li>
+            <li class="nav-items"><a href="#">It will work</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
